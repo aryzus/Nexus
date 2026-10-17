@@ -1,8 +1,3 @@
-# Nexus
-Multi-document AI intelligence — upload PDFs and ask questions across all of them with exact source citations using RAG, LangChain and Groq LLM
-
-
-
 # 🔮 Nexus — Multi-Document AI Intelligence
 
 > Upload multiple PDFs and ask questions across all of them — grounded answers with exact source citations.
